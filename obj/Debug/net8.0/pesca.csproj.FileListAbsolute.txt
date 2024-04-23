@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\peixe\pesca\bin\Debug\net8.0\pesca.exe
+C:\Users\user\Downloads\peixe\pesca\bin\Debug\net8.0\pesca.deps.json
+C:\Users\user\Downloads\peixe\pesca\bin\Debug\net8.0\pesca.runtimeconfig.json
+C:\Users\user\Downloads\peixe\pesca\bin\Debug\net8.0\pesca.dll
+C:\Users\user\Downloads\peixe\pesca\bin\Debug\net8.0\pesca.pdb
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.AssemblyInfo.cs
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.sourcelink.json
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.dll
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\refint\pesca.dll
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.pdb
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\pesca.genruntimeconfig.cache
+C:\Users\user\Downloads\peixe\pesca\obj\Debug\net8.0\ref\pesca.dll
